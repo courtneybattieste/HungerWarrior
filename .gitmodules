@@ -1,0 +1,6 @@
+[submodule "hunger-warrior"]
+	path = hunger-warrior
+	url = https://github.com/sanidhya-sitaula/hunger-warrior
+[submodule "hungerwarriorapi"]
+	path = hungerwarriorapi
+	url = https://github.com/korivernon/hungerwarriorapi
